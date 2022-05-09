@@ -1,0 +1,1 @@
+const getdata = require("../model/model")
